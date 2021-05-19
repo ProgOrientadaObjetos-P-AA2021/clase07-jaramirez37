@@ -1,0 +1,9 @@
+Computación;10,00;Tara Hernandez|contratado
+Lógica;9,00;Gregory Walsh|nombramiento
+Literatura;8,00;Kevin Page|nombramiento
+Computación;10,00;Tara Hernandez|contratado
+Lógica;9,00;Gregory Walsh|nombramiento
+Literatura;8,00;Kevin Page|nombramiento
+Computación;10,00;Tara Hernandez|contratado
+Lógica;9,00;Gregory Walsh|nombramiento
+Literatura;8,00;Kevin Page|nombramiento
