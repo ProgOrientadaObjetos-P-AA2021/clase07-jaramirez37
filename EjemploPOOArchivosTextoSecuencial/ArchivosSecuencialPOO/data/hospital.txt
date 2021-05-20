@@ -1,0 +1,3 @@
+Hospital Julios Docner;500;2000,00
+Hospital Hause;400;60000,00
+Hospital Julios Docner;500;2000,00
